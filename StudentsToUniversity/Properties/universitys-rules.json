@@ -1,0 +1,48 @@
+{
+  "BNTU": {
+    "robots": {
+      "min": 290,
+      "max": 334,
+      "place": 50
+    },
+    "energy": {
+      "min": 260,
+      "max": 321,
+      "place": 60
+    }
+  },
+  "BSUIR": {
+    "ksis": {
+      "min": 318,
+      "max": 358,
+      "place": 50
+    },
+    "radiotech": {
+      "min": 235,
+      "max": 281,
+      "place": 70
+    },
+    "informtech": {
+      "min": 301,
+      "max": 365,
+      "place": 65
+    }
+  },
+  "BSU": {
+    "radiophys": {
+      "min": 291,
+      "max": 400,
+      "place": 100
+    },
+    "fpmi": {
+      "min": 360,
+      "max": 400,
+      "place": 80
+    },
+    "mechmat": {
+      "min": 340,
+      "max": 400,
+      "place": 90
+    }
+  }
+}

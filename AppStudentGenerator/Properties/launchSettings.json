@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppStudentGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "-t csv -o students.csv -i 1 --records-amount=999"
+    }
+  }
+}
